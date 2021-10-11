@@ -38,3 +38,6 @@ E:\ONLINE\MVC_Web\AppCode\obj\Debug\net5.0\ref\AppCode.dll
 E:\ONLINE\MVC_Web\AppCode\obj\Debug\net5.0\AppCode.pdb
 E:\ONLINE\MVC_Web\AppCode\obj\Debug\net5.0\AppCode.genruntimeconfig.cache
 E:\ONLINE\MVC_Web\AppCode\obj\Debug\net5.0\AppCode.csproj.CopyComplete
+E:\ONLINE\MVC_Web\AppCode\obj\Debug\net5.0\Razor\Views\Home\About.cshtml.g.cs
+E:\ONLINE\MVC_Web\AppCode\obj\Debug\net5.0\Razor\Views\Home\Contact.cshtml.g.cs
+E:\ONLINE\MVC_Web\AppCode\obj\Debug\net5.0\Razor\Views\Home\EmergingTechnologies.cshtml.g.cs
